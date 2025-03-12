@@ -15,7 +15,7 @@ import java.time.Duration;
 public class SeleniumAutomation {
 
     public static void main(String[] args) {
-        // Set the path to your ChromeDriver executable
+        // Set the path to ChromeDriver executable
         System.setProperty("C:\\BrowserDriver\\chrome-win64", "C:\\BrowserDriver\\chromedriver-win64\\chromedriver-win64");
 
         // Initialize WebDriver
